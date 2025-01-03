@@ -8,6 +8,7 @@ BikeShare - A Udacity Project
 
 ### Description
 This project is designed to be easliy run from the terminal and allows users to seamlessly perform exploratory analysis on bikeshare data from three major US cities: Chicago, New York City, and Washington.  This program contains an interactive filtering tool that allows users to filter the data by city, day, and month.  The built in functions allow the user to easily perform exploratory data analysis from most popular start and end destination to basic user demongraphics like gender. 
+
 ### Files used
 - bikeshare_2.py
 
@@ -16,4 +17,5 @@ There are some steps to this project currently still in development; particularl
 
 ### Credits
 This project was inspired and guided by Udacity's nanodegree program. 
+https://www.udacity.com
 

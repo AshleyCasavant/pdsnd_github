@@ -17,4 +17,6 @@ There are some steps to this project currently still in development; particularl
 
 ### Credits
 This project was inspired and guided by Udacity's nanodegree program. 
+https://www.udacity.com
+
 

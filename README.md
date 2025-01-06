@@ -12,6 +12,9 @@ This project is designed to be easily run from the terminal and allows users to 
 ### Files used
 - bikeshare_2.py
 
+### Contribution
+There are some steps to this project currently still in development; particularly writing functions for the descriptive statistics that we would like to provide for users. Please reach out to Ashley Casavant on GitHub for more information if you are interested in contributing to this repository.
+
 ### Credits
 This project was inspired and guided by Udacity's nanodegree program. 
 
